@@ -1,5 +1,4 @@
-# Covid-Network-Simulation
-The Covid Network Simulation is a real-time simulation tool that models the spread and recovery of infectious diseases using graph-based networks.  The system visually tracks live infections (attacks) and recoveries, allowing analysis of disease propagation, hotspot identification, and recovery dynamics in a simulated population.
+
 
 # COVID Network Simulator — 3D Web + API
 
@@ -126,5 +125,3 @@ npm run dev
 ```
 The frontend will be available at `http://localhost:5173` (default Vite port).
 =======
-# Covid-Network-Simulation
->>>>>>> 5fb484ac7da5dc35aa4f6cc43f1669e9a0af8c18
