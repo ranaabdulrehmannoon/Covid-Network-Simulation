@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+networkx
+numpy
+python-multipart
+python-magic; platform_system == 'Linux'
+scikit-learn
